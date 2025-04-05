@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://markedler:Password1@contactkeeper.gkzmtug.mongodb.net/?retryWrites=true&w=majority&appName=ContactKeeper",
+  "jwtSecret": "SuperTopSecret"
+}
